@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestDojo", "TestDojo\TestDojo.csproj", "{CEAB0497-4814-4EC8-B4AB-BE837FB80716}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestDojoUnit", "TestDojoUnit\TestDojoUnit.csproj", "{6126D7E4-2868-44EC-A6C0-97BE2169E552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEAB0497-4814-4EC8-B4AB-BE837FB80716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAB0497-4814-4EC8-B4AB-BE837FB80716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAB0497-4814-4EC8-B4AB-BE837FB80716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAB0497-4814-4EC8-B4AB-BE837FB80716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6126D7E4-2868-44EC-A6C0-97BE2169E552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6126D7E4-2868-44EC-A6C0-97BE2169E552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6126D7E4-2868-44EC-A6C0-97BE2169E552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6126D7E4-2868-44EC-A6C0-97BE2169E552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34A7E3E9-5A97-4BEC-8A51-C7F196003314}
+	EndGlobalSection
+EndGlobal
